@@ -16,5 +16,7 @@ int main() {
 
   int x1 = ctoi(coord1[1]);
   int y1 = ctoi(coord1[4]);
+
+  std
   
 }
